@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - tool collection for images
 Name:		php-pear-%{_pearname}
-Version:	0.3.0
+Version:	0.4.2
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
