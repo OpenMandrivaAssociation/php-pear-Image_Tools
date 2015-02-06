@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.4.2
-Release:	9
+Release:	10
 Summary:	Tool collection for images
 License:	PHP License
 Group:		Development/PHP
